@@ -30,3 +30,6 @@ replay_pid*
 
 # env yml
 *-env.yml
+
+# IDEA
+.idea/
